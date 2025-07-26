@@ -17,7 +17,7 @@ public class Bloque : MonoBehaviour
     {
         if (resistencia <= 0)
         {
-            ActivarEfecto();
+            ActivarEfecto();    
             Destroy(this.gameObject);
 
         }

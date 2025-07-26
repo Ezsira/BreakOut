@@ -200,6 +200,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 20f7ad64753050f46914f431e48ea94a, type: 3}
+<<<<<<< HEAD
 --- !u!1 &318850484
 GameObject:
   m_ObjectHideFlags: 0
@@ -335,6 +336,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 318850484}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -727,6 +730,7 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
+<<<<<<< HEAD
 --- !u!1 &413784134
 GameObject:
   m_ObjectHideFlags: 0
@@ -937,6 +941,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 531747733}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> origin/main
 --- !u!1001 &717804796
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1727,6 +1733,9 @@ SceneRoots:
   - {fileID: 2058164340}
   - {fileID: 717804796}
   - {fileID: 25536533}
+<<<<<<< HEAD
   - {fileID: 1396433133}
   - {fileID: 1691217373}
   - {fileID: 1964602099}
+=======
+>>>>>>> origin/main
