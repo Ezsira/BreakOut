@@ -1,7 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/Practica-Modulo-12
 --- !u!28 &-7703848031551782389
 Texture2D:
   m_ObjectHideFlags: 0
@@ -158,7 +161,10 @@ Material:
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
   m_BuildTextureStacks: []
+<<<<<<< HEAD
 >>>>>>> b675701 (Avance)
+=======
+>>>>>>> origin/Practica-Modulo-12
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -173,18 +179,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hashCode: -1647775557
 <<<<<<< HEAD
+<<<<<<< HEAD
   material: {fileID: 362651419063290436}
   materialHashCode: 1791420859
   m_Version: 1.1.0
   m_SourceFontFileGUID: 554e099d2dd90034190fa327940a3293
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 554e099d2dd90034190fa327940a3293,
 =======
+=======
+>>>>>>> origin/Practica-Modulo-12
   material: {fileID: -6238918660262170268}
   materialHashCode: 1791420859
   m_Version: 1.1.0
   m_SourceFontFileGUID: e05f190198238c646a8a9809faee155c
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: e05f190198238c646a8a9809faee155c,
+<<<<<<< HEAD
 >>>>>>> b675701 (Avance)
+=======
+>>>>>>> origin/Practica-Modulo-12
     type: 3}
   m_SourceFontFile: {fileID: 0}
   m_AtlasPopulationMode: 0
@@ -2057,10 +2069,14 @@ MonoBehaviour:
     m_Scale: 1
   m_AtlasTextures:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 7421753176527919057}
 =======
   - {fileID: -7703848031551782389}
 >>>>>>> b675701 (Avance)
+=======
+  - {fileID: -7703848031551782389}
+>>>>>>> origin/Practica-Modulo-12
   m_AtlasTextureIndex: 0
   m_IsMultiAtlasTexturesEnabled: 0
   m_ClearDynamicDataOnBuild: 0
@@ -2755,10 +2771,14 @@ MonoBehaviour:
   m_CreationSettings:
     sourceFontFileName: 
 <<<<<<< HEAD
+<<<<<<< HEAD
     sourceFontFileGUID: 554e099d2dd90034190fa327940a3293
 =======
     sourceFontFileGUID: e05f190198238c646a8a9809faee155c
 >>>>>>> b675701 (Avance)
+=======
+    sourceFontFileGUID: e05f190198238c646a8a9809faee155c
+>>>>>>> origin/Practica-Modulo-12
     pointSizeSamplingMode: 0
     pointSize: 69
     padding: 5
@@ -2801,6 +2821,7 @@ MonoBehaviour:
   boldSpacing: 7
   italicStyle: 35
   tabSize: 10
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!21 &362651419063290436
 Material:
@@ -2960,3 +2981,5 @@ Texture2D:
     path: 
 =======
 >>>>>>> b675701 (Avance)
+=======
+>>>>>>> origin/Practica-Modulo-12

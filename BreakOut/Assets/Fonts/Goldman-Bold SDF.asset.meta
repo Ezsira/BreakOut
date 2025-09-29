@@ -1,9 +1,13 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: 8b7822ecdab2e00498833c054374bfde
 =======
 guid: be6adf908e7ac6a43a702cec58a407f7
 >>>>>>> b675701 (Avance)
+=======
+guid: be6adf908e7ac6a43a702cec58a407f7
+>>>>>>> origin/Practica-Modulo-12
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
