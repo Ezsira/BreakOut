@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:BreakOut/Assets/_Scripts/Puntaje.cs.meta
+<<<<<<< HEAD:BreakOut/Assets/_Scripts/Puntaje.cs.meta
 guid: b22a90baa0c65a444aefffa028a2feb4
+=======
+guid: d59f38d5f513259448c35aecb0384dae
+>>>>>>> b675701 (Avance):BreakOut/Assets/Scripts/Puntaje.cs.meta
+=======
+guid: d59f38d5f513259448c35aecb0384dae
+>>>>>>> origin/Practica-Modulo-12:BreakOut/Assets/Scripts/Puntaje.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

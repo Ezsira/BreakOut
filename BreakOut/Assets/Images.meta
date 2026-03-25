@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
 guid: 56323d09ad6283a479bbfe68fabb8360
+=======
+guid: dd426e3955eec03478768c6e876be7e1
+>>>>>>> b675701 (Avance)
+=======
+guid: dd426e3955eec03478768c6e876be7e1
+>>>>>>> origin/Practica-Modulo-12
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
